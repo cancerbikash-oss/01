@@ -534,6 +534,7 @@ https://mini.allinonereborn.fun/tata.php?id=11447
 https://mini.allinonereborn.fun/tata.php?id=11448
 https://mini.allinonereborn.fun/tata.php?id=11449
 https://mini.allinonereborn.fun/tata.php?id=11450
+#EXTINF:-1 tvg-id="@SD" tvg-logo=" " group-title="Sports",bein Sports 9 
 https://mini.allinonereborn.fun/tata.php?id=11451
 https://mini.allinonereborn.fun/tata.php?id=11452
 https://mini.allinonereborn.fun/tata.php?id=11453
@@ -545,7 +546,9 @@ https://mini.allinonereborn.fun/tata.php?id=11458
 https://mini.allinonereborn.fun/tata.php?id=11459
 https://mini.allinonereborn.fun/tata.php?id=11460
 https://mini.allinonereborn.fun/tata.php?id=11461
+#EXTINF:-1 tvg-id="@SD" tvg-logo=" " group-title="Sports",bein Sports 10
 https://mini.allinonereborn.fun/tata.php?id=11462
+#EXTINF:-1 tvg-id="@SD" tvg-logo=" " group-title="Movies",bein Movies Family HD 
 https://mini.allinonereborn.fun/tata.php?id=11463
 https://mini.allinonereborn.fun/tata.php?id=11464
 https://mini.allinonereborn.fun/tata.php?id=11465
@@ -767,9 +770,11 @@ https://mini.allinonereborn.fun/tata.php?id=11660
 https://mini.allinonereborn.fun/tata.php?id=11661
 #EXTINF:-1 tvg-id="Nickelodeon.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png" group-title="Kids",Nickelodeon (Tata Play)
 https://mini.allinonereborn.fun/tata.php?id=11662
+#EXTINF:-1 tvg-id="NickJr.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_JUNIOR/images/LOGO_HD/image.png" group-title="Kids",Nick Jr.
 https://mini.allinonereborn.fun/tata.php?id=11663
 https://mini.allinonereborn.fun/tata.php?id=11664
 https://mini.allinonereborn.fun/tata.php?id=11665
+#EXTINF:-1 tvg-id="ZeeTamil.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00233WCL.png?lock=720x540" group-title="Entertainment",Zee Tamil (Tata Play)
 https://mini.allinonereborn.fun/tata.php?id=11666
 #EXTINF:-1 tvg-id="Sonic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png" group-title="Kids",Sonic
 https://mini.allinonereborn.fun/tata.php?id=11667
@@ -833,28 +838,36 @@ https://mini.allinonereborn.fun/tata.php?id=11711
 https://mini.allinonereborn.fun/tata.php?id=11712
 #EXTINF:-1 tvg-id="DivyaTV.in@SD" tvg-logo="https://i.ibb.co/HfTcpCbb/divya-tv-lcn688-264x144.avif" group-title="Religious",Divya TV
 https://mini.allinonereborn.fun/tata.php?id=11713
+#EXTINF:-1 tvg-id="GlobalPunjab.in@SD" tvg-logo="https://i.imgur.com/WDLqcWW.png" group-title="News",Global Punjab
 https://mini.allinonereborn.fun/tata.php?id=11714
 https://mini.allinonereborn.fun/tata.php?id=11715
 https://mini.allinonereborn.fun/tata.php?id=11716
 https://mini.allinonereborn.fun/tata.php?id=11717
 https://mini.allinonereborn.fun/tata.php?id=11718
+#EXTINF:-1 tvg-id="ManoranjanTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MANORANJAN_TV/images/LOGO_HD/image.png" group-title="Entertainment",Manoranjan TV (DD Free Dish)
 https://mini.allinonereborn.fun/tata.php?id=11719
 https://mini.allinonereborn.fun/tata.php?id=11720
 https://mini.allinonereborn.fun/tata.php?id=11721
 https://mini.allinonereborn.fun/tata.php?id=11722
 https://mini.allinonereborn.fun/tata.php?id=11723
+#EXTINF:-1 tvg-id="Nickelodeon.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png" group-title="Kids",Nickelodeon
 https://mini.allinonereborn.fun/tata.php?id=11724
 https://mini.allinonereborn.fun/tata.php?id=11725
 https://mini.allinonereborn.fun/tata.php?id=11726
+#EXTINF:-1 tvg-id="TimesNow.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TIMES_NOW/images/LOGO_HD/image.png" group-title="News",Times Now
 https://mini.allinonereborn.fun/tata.php?id=11727
 https://mini.allinonereborn.fun/tata.php?id=11728
+#EXTINF:-1 tvg-id="EpicMusic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHOWBOX/images/LOGO_HD/image.png" group-title="Music",Epic Music (DD Free Dish)
 https://mini.allinonereborn.fun/tata.php?id=11729
 https://mini.allinonereborn.fun/tata.php?id=11730
+#EXTINF:-1 tvg-id="TimesNowNavbharat.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TIMES_NOW_NAVBHARAT_HD/images/LOGO_HD/image.png" group-title="News",Times Now Navbharat (DD Free Dish)
 https://mini.allinonereborn.fun/tata.php?id=11731
 https://mini.allinonereborn.fun/tata.php?id=11732
 https://mini.allinonereborn.fun/tata.php?id=11733
 https://mini.allinonereborn.fun/tata.php?id=11734
+#EXTINF:-1 tvg-id="FoodFood.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Food_Food.png" group-title="Cooking;Lifestyle",Food Food
 https://mini.allinonereborn.fun/tata.php?id=11735
+
 https://mini.allinonereborn.fun/tata.php?id=11736
 https://mini.allinonereborn.fun/tata.php?id=11737
 https://mini.allinonereborn.fun/tata.php?id=11738
@@ -870,7 +883,7 @@ https://mini.allinonereborn.fun/tata.php?id=11747
 https://mini.allinonereborn.fun/tata.php?id=11748
 https://mini.allinonereborn.fun/tata.php?id=11749
 https://mini.allinonereborn.fun/tata.php?id=11750
-#EXTINF:-1 tvg-id="@SD" tvg-logo=" " group-title="Entertainment",Tata Play Threater (Tata Play)
+#EXTINF:-1 tvg-id="News18India.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_INDIA/images/LOGO_HD/image.png" group-title="News",News18 India (Tata Play)
 https://mini.allinonereborn.fun/tata.php?id=11751
 #EXTINF:-1 tvg-id="Vedic.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s144069_ld_h15_aa.png?lock=720x540" group-title="Religious",Vedic 
 https://mini.allinonereborn.fun/tata.php?id=11752
@@ -879,7 +892,7 @@ https://mini.allinonereborn.fun/tata.php?id=11753
 https://mini.allinonereborn.fun/tata.php?id=11754
 #EXTINF:-1 tvg-id="ZeeSarthak.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_SARTHAK/images/LOGO_HD/LOGO_HD_image.png" group-title="Entertainment",Zee Sarthak
 https://mini.allinonereborn.fun/tata.php?id=11755
-#EXTINF:-1 tvg-id="ZeeThirai.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_THIRAI/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies",Zee Thirai HD
+#EXTINF:-1 tvg-id="ZeeBanglaSonar.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00287G7K.png?lock=720x540" group-title="Entertainment",Zee Bangla Sonar
 https://mini.allinonereborn.fun/tata.php?id=11756
 https://mini.allinonereborn.fun/tata.php?id=11757
 https://mini.allinonereborn.fun/tata.php?id=11758
@@ -903,10 +916,11 @@ https://mini.allinonereborn.fun/tata.php?id=11772
 https://mini.allinonereborn.fun/tata.php?id=11773
 #EXTINF:-1 tvg-id="ColorsRishteyAsia.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_RISHTEY/images/LOGO_HD/LOGO_HD_image.png" group-title="General",Colors Rishtey
 https://mini.allinonereborn.fun/tata.php?id=11774
+#EXTINF:-1 tvg-id="SonyMax2.in@SD" tvg-logo="https://i.imgur.com/gqUYk6C.png" group-title="Movies",Sony Max 2
 https://mini.allinonereborn.fun/tata.php?id=11775
 https://mini.allinonereborn.fun/tata.php?id=11776
 https://mini.allinonereborn.fun/tata.php?id=11777
-#EXTINF:-1 tvg-id="SonySAB.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB/images/LOGO_HD/image.png" group-title="Entertainment",Sony SAB
+#EXTINF:-1 tvg-id="SonySAB.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB/images/LOGO_HD/image.png" group-title="Entertainment",Sony SAB UK
 https://mini.allinonereborn.fun/tata.php?id=11778
 #EXTINF:-1 tvg-id="UtsavBharat.uk@SD" tvg-logo="https://i.imgur.com/IQ2n0WY.png" group-title="Entertainment",Utsav Bharat
 https://mini.allinonereborn.fun/tata.php?id=11779
@@ -918,9 +932,9 @@ https://mini.allinonereborn.fun/tata.php?id=11783
 https://mini.allinonereborn.fun/tata.php?id=11784
 #EXTINF:-1 tvg-id="Andflix.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies",&flix HD (Tata Play)
 https://mini.allinonereborn.fun/tata.php?id=11785
-#EXTINF:-1 tvg-id="AnimalPlanet.in@HD" tvg-logo="" group-title="Adventyre",Animal Planet HD 
+#EXTINF:-1 tvg-id="AnimalPlanet.in@HD" tvg-logo="" group-title="Adventure",Animal Planet HD 
 https://mini.allinonereborn.fun/tata.php?id=11786
-#EXTINF:-1 tvg-id="DTamil.in" tvg-logo="" group-title="Adventyre",D Tamil
+#EXTINF:-1 tvg-id="DTamil.in" tvg-logo="" group-title="Adventure",D Tamil
 https://mini.allinonereborn.fun/tata.php?id=11787
 https://mini.allinonereborn.fun/tata.php?id=11788
 https://mini.allinonereborn.fun/tata.php?id=11789
@@ -932,9 +946,12 @@ https://mini.allinonereborn.fun/tata.php?id=11794
 https://mini.allinonereborn.fun/tata.php?id=11795
 https://mini.allinonereborn.fun/tata.php?id=11796
 https://mini.allinonereborn.fun/tata.php?id=11797
+#EXTINF:-1 tvg-id="NationalGeographicWild.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png" group-title="Documentary",National Geographic Wild HD Tamil (Tata Play)
 https://mini.allinonereborn.fun/tata.php?id=11798
 https://mini.allinonereborn.fun/tata.php?id=11799
+#EXTINF:-1 tvg-id="@SD" tvg-logo=" " group-title="Kids",POGO Tamil (Tata Play)
 https://mini.allinonereborn.fun/tata.php?id=11800
+#EXTINF:-1 tvg-id="SonyBBCEarth.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540" group-title="Documentary",Sony BBC Earth HD Tamil (Tata Play)
 https://mini.allinonereborn.fun/tata.php?id=11801
 https://mini.allinonereborn.fun/tata.php?id=11802
 https://mini.allinonereborn.fun/tata.php?id=11803
@@ -1000,10 +1017,12 @@ https://mini.allinonereborn.fun/tata.php?id=11862
 https://mini.allinonereborn.fun/tata.php?id=11863
 https://mini.allinonereborn.fun/tata.php?id=11864
 https://mini.allinonereborn.fun/tata.php?id=11865
+#EXTINF:-1 tvg-id="@SD" tvg-logo=" " group-title="Religious", Joshua TV (Tamil Christian)
 https://mini.allinonereborn.fun/tata.php?id=11866
 https://mini.allinonereborn.fun/tata.php?id=11867
 https://mini.allinonereborn.fun/tata.php?id=11868
 https://mini.allinonereborn.fun/tata.php?id=11869
+#EXTINF:-1 tvg-id="@SD" tvg-logo=" " group-title="Music",Movie Box Pakistan
 https://mini.allinonereborn.fun/tata.php?id=11870
 https://mini.allinonereborn.fun/tata.php?id=11871
 https://mini.allinonereborn.fun/tata.php?id=11872
@@ -1027,6 +1046,7 @@ https://mini.allinonereborn.fun/tata.php?id=11889
 https://mini.allinonereborn.fun/tata.php?id=11890
 https://mini.allinonereborn.fun/tata.php?id=11891
 https://mini.allinonereborn.fun/tata.php?id=11892
+#EXTINF:-1 tvg-id="Sonic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png" group-title="Kids",Sonic 
 https://mini.allinonereborn.fun/tata.php?id=11893
 https://mini.allinonereborn.fun/tata.php?id=11894
 https://mini.allinonereborn.fun/tata.php?id=11895
@@ -1277,18 +1297,26 @@ https://mini.allinonereborn.fun/tata.php?id=12139
 https://mini.allinonereborn.fun/tata.php?id=12140
 https://mini.allinonereborn.fun/tata.php?id=12141
 https://mini.allinonereborn.fun/tata.php?id=12142
+#EXTINF:-1 tvg-id="Eurosport.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9LQS.png?lock=720x540" group-title="Sports",Eurosport
 https://mini.allinonereborn.fun/tata.php?id=12143
+#EXTINF:-1 tvg-id="SonySportsTen5.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png" group-title="Sports",Sony Sports Ten 5 HD
 https://mini.allinonereborn.fun/tata.php?id=12144
+#EXTINF:-1 tvg-id="SonySportsTen1.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png" group-title="Sports",Sony Sports Ten 1 HD (Tata Play)
 https://mini.allinonereborn.fun/tata.php?id=12145
+#EXTINF:-1 tvg-id="SonySportsTen2.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png" group-title="Sports",Sony Sports Ten 2 HD (Tata Play)
 https://mini.allinonereborn.fun/tata.php?id=12146
+#EXTINF:-1 tvg-id="SonySportsTen3Hindi.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540" group-title="Sports",Sony Sports Ten 3 Hindi HD (Tata Play)
 https://mini.allinonereborn.fun/tata.php?id=12147
 https://mini.allinonereborn.fun/tata.php?id=12148
+#EXTINF:-1 tvg-id="StarSports1.in@HD" tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="Sports",Star Sports 1 HD (Tata Play)
 https://mini.allinonereborn.fun/tata.php?id=12149
 https://mini.allinonereborn.fun/tata.php?id=12150
 https://mini.allinonereborn.fun/tata.php?id=12151
+#EXTINF:-1 tvg-id="@SD" tvg-logo="https://i.ibb.co/LXkW7WGB/Star-sports-select-1-hd.webp" group-title="Sports",Star Sports Slect 1 HD
 https://mini.allinonereborn.fun/tata.php?id=12152
 https://mini.allinonereborn.fun/tata.php?id=12153
 https://mini.allinonereborn.fun/tata.php?id=12154
+#EXTINF:-1 tvg-id="StarSports3.in@SD" tvg-logo="https://i.ibb.co/fPZc1rP/Star-Sports-3.jpg" group-title="Sports",Star Sports 3
 https://mini.allinonereborn.fun/tata.php?id=12155
 https://mini.allinonereborn.fun/tata.php?id=12156
 https://mini.allinonereborn.fun/tata.php?id=12157
@@ -1298,15 +1326,20 @@ https://mini.allinonereborn.fun/tata.php?id=12160
 https://mini.allinonereborn.fun/tata.php?id=12161
 https://mini.allinonereborn.fun/tata.php?id=12162
 https://mini.allinonereborn.fun/tata.php?id=12163
+#EXTINF:-1 tvg-id="@SD" tvg-logo=" " group-title="Sports", GEO Super HD
 https://mini.allinonereborn.fun/tata.php?id=12164
+#EXTINF:-1 tvg-id="@SD" tvg-logo=" " group-title="Sports", PTV Sports
 https://mini.allinonereborn.fun/tata.php?id=12165
+#EXTINF:-1 tvg-id="TenSportsPakistan.pk@SD" tvg-logo="https://i.imgur.com/nnqpYNm.png" group-title="Sports",Ten Sports Pakistan
 https://mini.allinonereborn.fun/tata.php?id=12166
 https://mini.allinonereborn.fun/tata.php?id=12167
 https://mini.allinonereborn.fun/tata.php?id=12168
 https://mini.allinonereborn.fun/tata.php?id=12169
 https://mini.allinonereborn.fun/tata.php?id=12170
+#EXTINF:-1 tvg-id="DDSports.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png?lock=720x540" group-title="Sports",DD Sports SD
 https://mini.allinonereborn.fun/tata.php?id=12171
 https://mini.allinonereborn.fun/tata.php?id=12172
+#EXTINF:-1 tvg-id="SonySportsTen3Hindi.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540" group-title="Sports",Sony Sports Ten 3 Hindi HD (Tata Play)
 https://mini.allinonereborn.fun/tata.php?id=12173
 https://mini.allinonereborn.fun/tata.php?id=12174
 https://mini.allinonereborn.fun/tata.php?id=12175
