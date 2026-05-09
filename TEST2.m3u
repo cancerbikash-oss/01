@@ -686,7 +686,9 @@ https://mini.allinonereborn.fun/tata.php?id=648
 https://mini.allinonereborn.fun/tata.php?id=649
 #EXTINF:-1 tvg-id="E24.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_E24/images/LOGO_HD/image.png" group-title="Entertainment",E 24
 https://mini.allinonereborn.fun/tata.php?id=650
-#EXTINF:-1 tvg-id="jusHindi.in@SD" tvg-logo="" group-title="News",jus Hindi HD
+#EXTINF:-1 tvg-id="JusPunjabi.us@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/JUSPunjabi.png" group-title="General",Jus Punjabi HD US
+#EXTINF:-1 tvg-id="JusOne.us@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/JUSOne.png" group-title="General",Jus One HD US
+#EXTINF:-1 tvg-id="JusHindi.us@SD" tvg-logo="https://i.ibb.co/N2X56TxL/Jus-Hindi.png" group-title="News",Jus Hindi HD US
 https://mini.allinonereborn.fun/tata.php?id=651
 #EXTINF:-1 tvg-id="Zoom.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png" group-title="Music",Zoom
 https://mini.allinonereborn.fun/tata.php?id=651
@@ -758,8 +760,11 @@ https://mini.allinonereborn.fun/tata.php?id=703
 https://mini.allinonereborn.fun/tata.php?id=704
 #EXTINF:-1 tvg-id="MHOneShraddha.in@SD" tvg-logo="https://i.imgur.com/Lrm8qTO.png" group-title="Religious",MH One Shraddha
 https://mini.allinonereborn.fun/tata.php?id=705
+#EXTINF:-1 tvg-id="GlobalPunjab.in@SD" tvg-logo="https://i.imgur.com/WDLqcWW.png" group-title="News",Global Punjab
 https://mini.allinonereborn.fun/tata.php?id=706
+#EXTINF:-1 tvg-id="@SD" tvg-logo="https://i.ibb.co/Xr0nML6n/Karthavya-TV-Channel.jpg" group-title="Religious",Kartavya TV 
 https://mini.allinonereborn.fun/tata.php?id=707
+#EXTINF:-1 tvg-id="News18Marathi.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News18Lokmat.png" group-title="News",News18 Marathi
 https://mini.allinonereborn.fun/tata.php?id=708
 https://mini.allinonereborn.fun/tata.php?id=709
 https://mini.allinonereborn.fun/tata.php?id=710
