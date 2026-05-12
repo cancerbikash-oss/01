@@ -1,10 +1,18 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="CNBCBajar.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNBCBajar.png" group-title="Business",CNBC Bajar
 https://mini.allinonereborn.fun/tata.php?id=1000
+#EXTINF:-1 tvg-id="TV9Gujarati.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TV9_GUJARATI/images/LOGO_HD/image.png" group-title="News",TV9 Gujarati
 https://mini.allinonereborn.fun/tata.php?id=1001
+#EXTINF:-1 tvg-id="@SD" tvg-logo=" " group-title="NO Signal", No Channel
 https://mini.allinonereborn.fun/tata.php?id=1002
+#EXTINF:-1 tvg-id="NewsStateUttarPradeshUttarakhand.in@SD" tvg-logo="https://i.ibb.co/FbGB1YYw/News-State-UP-UK.jpg" group-title="News",News State UK UP Live TV
 https://mini.allinonereborn.fun/tata.php?id=1003
+#EXTINF:-1 tvg-id="SonyBBCEarth.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540" group-title="Documentary",Sony BBC Earth HD Hindi (DishTV Smart +)
 https://mini.allinonereborn.fun/tata.php?id=1004
+#EXTINF:-1 tvg-id="SanskarTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SANSKAR/images/LOGO_HD/image.png" group-title="Culture;Religious",Sanskar TV
 https://mini.allinonereborn.fun/tata.php?id=1005
+https://mini.allinonereborn.fun/tata.php?id=1006
+#EXTINF:-1 tvg-id="NDTVGoodTimes.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOOD_TIMES/images/LOGO_HD/image.png" group-title="Documentary",NDTV Good Times
 https://mini.allinonereborn.fun/tata.php?id=1006
 https://mini.allinonereborn.fun/tata.php?id=1007
 https://mini.allinonereborn.fun/tata.php?id=1008
@@ -18,18 +26,28 @@ https://mini.allinonereborn.fun/tata.php?id=1015
 https://mini.allinonereborn.fun/tata.php?id=1016
 https://mini.allinonereborn.fun/tata.php?id=1017
 https://mini.allinonereborn.fun/tata.php?id=1018
+#EXTINF:-1 tvg-id="WION.in@SD" tvg-logo="https://i.imgur.com/Wc5Z3iS.png" group-title="News",WION
 https://mini.allinonereborn.fun/tata.php?id=1019
 https://mini.allinonereborn.fun/tata.php?id=1020
+#EXTINF:-1 tvg-id="ZeeTelugu.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TELUGU/images/LOGO_HD/LOGO_HD_image.png" group-title="Entertainment",Zee Telugu HD
 https://mini.allinonereborn.fun/tata.php?id=1021
 https://mini.allinonereborn.fun/tata.php?id=1022
 https://mini.allinonereborn.fun/tata.php?id=1023
+#EXTINF:-1 tvg-id="ColorsGujarati.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_GUJARATI/images/LOGO_HD/image.png" group-title="Entertainment",Colors Gujarati
 https://mini.allinonereborn.fun/tata.php?id=1024
 https://mini.allinonereborn.fun/tata.php?id=1025
+#EXTINF:-1 tvg-id="GSTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/GS_TV.png" group-title="News",GS TV
 https://mini.allinonereborn.fun/tata.php?id=1026
+#EXTINF:-1 tvg-id="News18Kannada.in@SD" tvg-logo="https://i.imgur.com/3XVFxdO.png" group-title="News" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" referrer="https://kannada.news18.com/",News18 Kannada
 https://mini.allinonereborn.fun/tata.php?id=1027
 https://mini.allinonereborn.fun/tata.php?id=1028
+#EXTINF:-1 tvg-id="MoviesNow.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MOVIES_NOW/images/LOGO_HD/image.png" group-title="Movies",Movies Now HD
+https://mini.allinonereborn.fun/tata.php?id=1028
+#EXTINF:-1 tvg-id="DDRajasthan.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_RAJASTHAN/images/LOGO_HD/image.png" group-title="General",DD Rajasthan
 https://mini.allinonereborn.fun/tata.php?id=1029
+#EXTINF:-1 tvg-id="DDMadhyaPradesh.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142790_ld_h15_aa.png?lock=720x540" group-title="General",DD Madhya Pradesh
 https://mini.allinonereborn.fun/tata.php?id=1030
+#EXTINF:-1 tvg-id="DDIndia.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s158251_ld_h15_aa.png?lock=720x540" group-title="General",DD India
 https://mini.allinonereborn.fun/tata.php?id=1031
 https://mini.allinonereborn.fun/tata.php?id=1032
 https://mini.allinonereborn.fun/tata.php?id=1033
