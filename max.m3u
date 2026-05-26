@@ -469,7 +469,7 @@ http://maxotts.maxdigitaltv.com/x-media/C231/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C232/master.m3u8
 #EXTINF:-1 tvg-id="xx.np@SD" tvg-logo="" group-title="ERROR",Channel No.233
 http://maxotts.maxdigitaltv.com/x-media/C233/master.m3u8
-#EXTINF:-1 tvg-id="xx.np@SD" tvg-logo="" group-title="Nepal",Channel No.234
+#EXTINF:-1 tvg-id="xx.np@SD" tvg-logo="" group-title="Error",Channel No.234
 http://maxotts.maxdigitaltv.com/x-media/C234/master.m3u8
 #EXTINF:-1 tvg-id="xx.np@SD" tvg-logo="" group-title="ERROR",Channel No.235
 http://maxotts.maxdigitaltv.com/x-media/C235/master.m3u8
