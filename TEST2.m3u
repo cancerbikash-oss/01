@@ -95,18 +95,19 @@ https://mini.allinonereborn.fun/tata.php?id=93
 https://mini.allinonereborn.fun/tata.php?id=94
 #EXTINF:-1 tvg-id="@SD" tvg-logo=" " group-title="Religious",Dhamesh TV Canada
 https://mini.allinonereborn.fun/tata.php?id=95
-#EXTINF:-1 tvg-id="@SD" tvg-logo=" " group-title="Religious",Dhamesh TV Canada
 #EXTINF:-1 tvg-id="ChardiklaGurbaaniTV.in@SD" tvg-logo="https://i.imgur.com/NXD8CPq.png" group-title="Religious",Chardikla Gurbaani TV
 https://mini.allinonereborn.fun/tata.php?id=96
 https://mini.allinonereborn.fun/tata.php?id=97
 #EXTINF:-1 tvg-id="DesiChannel.in@SD" tvg-logo="https://i.ibb.co/b5MzvHtq/Desi-Channel.jpg" group-title="Music", Desi Channel
 https://mini.allinonereborn.fun/tata.php?id=98
 https://mini.allinonereborn.fun/tata.php?id=99
+#EXTINF:-1 tvg-id="GurmatTV.ca@SD" tvg-logo="" group-title="General",Gurmat TV
 https://mini.allinonereborn.fun/tata.php?id=100
 #EXTINF:-1 tvg-id="@SD" tvg-logo=" " group-title="Music",VIBE Punjabi 4K Music Canada
 https://mini.allinonereborn.fun/tata.php?id=101
 https://mini.allinonereborn.fun/tata.php?id=102
 #EXTINF:-1 tvg-id="@SD" tvg-logo="" group-title="Movies",SS Television
+#EXTINF:-1 tvg-id="@SD" tvg-logo="" group-title="Religious",SGPC
 https://mini.allinonereborn.fun/tata.php?id=103
 https://mini.allinonereborn.fun/tata.php?id=104
 #EXTINF:-1 tvg-id="@SD" tvg-logo="https://i.ibb.co/3y1ScXPw/7-X-Punjabi.png " group-title="Music",7X Punjabi
@@ -116,6 +117,7 @@ https://mini.allinonereborn.fun/tata.php?id=106
 https://mini.allinonereborn.fun/tata.php?id=107
 #EXTINF:-1 tvg-id="@SD" tvg-logo=" " group-title="Religious", Punjabi Canada
 https://mini.allinonereborn.fun/tata.php?id=108
+#EXTINF:-1 tvg-id="@SD" tvg-logo="" group-title="General",Bassi Show
 https://mini.allinonereborn.fun/tata.php?id=109
 https://mini.allinonereborn.fun/tata.php?id=110
 #EXTINF:-1 tvg-id="@SD" tvg-logo=" " group-title="Music",Only Music HD Canada
@@ -2255,18 +2257,32 @@ https://mini.allinonereborn.fun/tata.php?id=1956
 https://mini.allinonereborn.fun/tata.php?id=1957
 https://mini.allinonereborn.fun/tata.php?id=1958
 https://mini.allinonereborn.fun/tata.php?id=1959
+#EXTINF:-1 tvg-id="@SD" tvg-logo=" " group-title="Movies", 
 https://mini.allinonereborn.fun/tata.php?id=1960
+#EXTINF:-1 tvg-id="@SD" tvg-logo=" " group-title="Movies", 
 https://mini.allinonereborn.fun/tata.php?id=1961
+#EXTINF:-1 tvg-id="@SD" tvg-logo=" " group-title="Movies", 
 https://mini.allinonereborn.fun/tata.php?id=1962
+#EXTINF:-1 tvg-id="@SD" tvg-logo=" " group-title="Advertisement",
 https://mini.allinonereborn.fun/tata.php?id=1963
+#EXTINF:-1 tvg-id="@SD" tvg-logo=" " group-title="Advertisement",
 https://mini.allinonereborn.fun/tata.php?id=1964
+#EXTINF:-1 tvg-id="FXX.us" tvg-logo="	
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/960px-FXX_Logo.svg.png" group-title="Entertainment",FXX
 https://mini.allinonereborn.fun/tata.php?id=1965
+#EXTINF:-1 tvg-id="FYI.us" tvg-logo="https://i.imgur.com/PggQk7F.png" group-title="Infotainment",FYI
 https://mini.allinonereborn.fun/tata.php?id=1966
+#EXTINF:-1 tvg-id="@SD" tvg-logo=" " group-title="Movies", 
 https://mini.allinonereborn.fun/tata.php?id=1967
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png" group-title="Infotainment",Food Network
 https://mini.allinonereborn.fun/tata.php?id=1968
+#EXTINF:-1 tvg-id="FoxBusinessNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/960px-Fox_Business.svg.png" group-title="Business",Fox Business Network
 https://mini.allinonereborn.fun/tata.php?id=1969
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News Channel
 https://mini.allinonereborn.fun/tata.php?id=1970
+#EXTINF:-1 tvg-id="@SD" tvg-logo=" " group-title="Advertisement",
 https://mini.allinonereborn.fun/tata.php?id=1971
+#EXTINF:-1 tvg-id="Fuse.us" tvg-logo="https://i.ibb.co/9HJFqHFY/Fuse-Black-Logo-2017.png" group-title="Entertainment",Fuse 
 https://mini.allinonereborn.fun/tata.php?id=1972
 https://mini.allinonereborn.fun/tata.php?id=1973
 https://mini.allinonereborn.fun/tata.php?id=1974
@@ -2275,38 +2291,60 @@ https://mini.allinonereborn.fun/tata.php?id=1976
 https://mini.allinonereborn.fun/tata.php?id=1977
 https://mini.allinonereborn.fun/tata.php?id=1978
 https://mini.allinonereborn.fun/tata.php?id=1979
+#EXTINF:-1 tvg-id="History.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Infotainment",History
 https://mini.allinonereborn.fun/tata.php?id=1980
+#EXTINF:-1 tvg-id="HLN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/960px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="Infotainment",HLN
 https://mini.allinonereborn.fun/tata.php?id=1981
+#EXTINF:-1 tvg-id="IFC.us" tvg-logo="https://i.imgur.com/bQdkyF9.png" group-title="Movies",IFC
 https://mini.allinonereborn.fun/tata.php?id=1982
+#EXTINF:-1 tvg-id="INSP.usD" tvg-logo="https://i.imgur.com/YgOC51j.png" group-title="Movies",INSP 
 https://mini.allinonereborn.fun/tata.php?id=1983
+#EXTINF:-1 tvg-id="@SD" tvg-logo=" " group-title="Advertisement",
 https://mini.allinonereborn.fun/tata.php?id=1984
+#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" group-title="Infotainment",Investigation Discovery
 https://mini.allinonereborn.fun/tata.php?id=1985
+#EXTINF:-1 tvg-id="jtv.us" tvg-logo="https://i.imgur.com/BLeTLFC.png" group-title="",jtv
 https://mini.allinonereborn.fun/tata.php?id=1986
 https://mini.allinonereborn.fun/tata.php?id=1987
 https://mini.allinonereborn.fun/tata.php?id=1988
+#EXTINF:-1 tvg-id="Logo.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/500px-Logo_TV_2015.svg.png" group-title="Entertainment",Logo
 https://mini.allinonereborn.fun/tata.php?id=1989
+#EXTINF:-1 tvg-id="@SD" tvg-logo=" " group-title="Advertisement",
 https://mini.allinonereborn.fun/tata.php?id=1990
+#EXTINF:-1 tvg-id="Newsmax.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/960px-Newsmax_logo.svg.png" group-title="News",Newsmax
 https://mini.allinonereborn.fun/tata.php?id=1991
+#EXTINF:-1 tvg-id="@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" group-title="Sports",Red Bull TV
 https://mini.allinonereborn.fun/tata.php?id=1992
 https://mini.allinonereborn.fun/tata.php?id=1993
 https://mini.allinonereborn.fun/tata.php?id=1994
 https://mini.allinonereborn.fun/tata.php?id=1995
+#EXTINF:-1 tvg-id="MTVClassic.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/960px-MTV_Classic_US.svg.png" group-title="Music",MTV Classic
 https://mini.allinonereborn.fun/tata.php?id=1996
+#EXTINF:-1 tvg-id="MTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" group-title="Entertainment",MTV 
 https://mini.allinonereborn.fun/tata.php?id=1997
+#EXTINF:-1 tvg-id="MTVLive.us" tvg-logo="https://i.imgur.com/3UByLqb.png" group-title="Music",MTV Live
 https://mini.allinonereborn.fun/tata.php?id=1998
+#EXTINF:-1 tvg-id="MTV2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/960px-MTV2_logo_2013.svg.png" group-title="Entertainment",MTV2
 https://mini.allinonereborn.fun/tata.php?id=1999
+#EXTINF:-1 tvg-id="@SD" tvg-logo=" " group-title="Sports",
 https://mini.allinonereborn.fun/tata.php?id=2000
 
-
-
+#EXTINF:-1 tvg-id="NESN.us" tvg-logo="https://i.imgur.com/Lv1bUG5.png" group-title="Sports",NESN
 https://mini.allinonereborn.fun/tata.php?id=2001
+#EXTINF:-1 tvg-id="NESNPlus.us" tvg-logo="https://i.imgur.com/j74nFmh.png" group-title="Sports",NESN Plus
 https://mini.allinonereborn.fun/tata.php?id=2002
 https://mini.allinonereborn.fun/tata.php?id=2003
+#EXTINF:-1 tvg-id="NationalGeographic.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Infotainment",National Geographic
 https://mini.allinonereborn.fun/tata.php?id=2004
+#EXTINF:-1 tvg-id="OWN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/960px-OWN_2011_logo.svg.png" group-title="Infotainment",OWN
 https://mini.allinonereborn.fun/tata.php?id=2005
+#EXTINF:-1 tvg-id="OutdoorChannel.us@SD" tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="Infotainment",Outdoor Channel
 https://mini.allinonereborn.fun/tata.php?id=2006
+#EXTINF:-1 tvg-id="OutsideTV.us@SD" tvg-logo="https://i.imgur.com/0UMmG41.png" group-title="Infotainment",Outside TV 
 https://mini.allinonereborn.fun/tata.php?id=2007
+#EXTINF:-1 tvg-id="Ovation.us@SD" tvg-logo="https://i.imgur.com/A3o9gvc.png" group-title="Entertainment",Ovation
 https://mini.allinonereborn.fun/tata.php?id=2008
+#EXTINF:-1 tvg-id="OxygenTrueCrime@SD" tvg-logo="https://i.ibb.co/mCDYFBzh/Oxygen-TV-2017-Logo-svg.png" group-title="Infotainment",Oxygen True Crime
 https://mini.allinonereborn.fun/tata.php?id=2009
 https://mini.allinonereborn.fun/tata.php?id=2010
 https://mini.allinonereborn.fun/tata.php?id=2011
