@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="HimalayaTV.np@HD" tvg-logo="https://i.imgur.com/a62DiwH.png" group-title="Nepal",Himalayan TV
-#EXTINF:-1 tvg-id="HimalayaTV.np@HD" tvg-logo="https://i.imgur.com/a62DiwH.png" group-title="Nepal",Himalayan TV
+#EXTINF:-1 tvg-id="HimalayaTV.np@SD" tvg-logo="https://i.imgur.com/a62DiwH.png" group-title="Nepal",Himalayan TV
 http://maxotts.maxdigitaltv.com/x-media/C8/master.m3u8
 #EXTINF:-1 tvg-id="HimalayaSports.np@HD" tvg-logo="https://i.ibb.co/MD6ycv7h/Himalayan-Sports-HD.jpg" group-title="Nepal",Himalayan Sports
 http://maxotts.maxdigitaltv.com/x-media/C707/master.m3u8
