@@ -3,3 +3,63 @@ EXTINF:-1 tvg-id="HimalayaTV.np@SD" tvg-logo="https://i.imgur.com/a62DiwH.png" g
 http://maxotts.maxdigitaltv.com/x-media/C8/master.m3u8
 #EXTINF:-1 tvg-id="HimalayaSports.np@HD" tvg-logo="https://i.ibb.co/MD6ycv7h/Himalayan-Sports-HD.jpg" group-title="Nepal",Himalayan Sports
 http://maxotts.maxdigitaltv.com/x-media/C707/master.m3u8
+#EXTINF:-1 tvg-id="FoxSports1.us@SD" tvg-logo="https://i.imgur.com/O9BapV9.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Sports",Fox Sports 1
+http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2501
+#EXTINF:-1 tvg-id="FoxSports2.us@SD" tvg-logo="https://i.imgur.com/LHtxKI8.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Sports",Fox Sports 2
+http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2500
+#EXTINF:-1 tvg-id="FoxSports1.us@SD" tvg-logo="https://i.imgur.com/O9BapV9.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Sports",Fox Sports 1
+http://192.129.159.196:8020/watch/9ab7e7d9-f0e8-4324-bbe4-b47a98783a55/server1.m3u8
+#EXTINF:-1 tvg-id="FoxSports2.us@SD" tvg-logo="https://i.imgur.com/LHtxKI8.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Sports",Fox Sports 2 SD
+http://103.205.133.70/foxsports2/index.m3u8
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1303.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Sports",Sky Sports Premier League
+http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2289
+#EXTINF:-1 tvg-id="SkySports.uk" tvg-logo="https://i.imgur.com/O9BapV9.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Sports",Sky Sports
+http://201.207.54.159:8000/play/a0az/index.m3u8
+#EXTINF:-1 tvg-id="Fox.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Entertainment",Fox
+http://190.83.9.222:8000/play/a012/index.m3u8
+#EXTINF:-1 tvg-id="TNTSports1.uk@SD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Sports",TNT Sports 1
+http://192.129.159.196:8020/watch/9ab7e7d2-a517-4162-92de-ddeb433bb0da/server1.m3u8
+#EXTINF:-1 tvg-id="TNTSports.uk@SD" tvg-logo="https://i.ibb.co/hxrVwtNc/TNT-Sports-2023-svg.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Sports",TNT Sports
+http://181.65.191.173:8069/play/a09s
+#EXTINF:-1 tvg-id="beINSportsUSA.us" tvg-logo="https://i.ibb.co/hFD19xLc/Be-IN-Sports-logo-horizontal-version-svg.png" group-title="Sports", beIN Sports USA
+http://23.237.104.106:8080/USA_BEIN/index.m3u8
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us " tvg-logo="https://i.ibb.co/6c567rZ0/bein-sports-xtra-logos.png" group-title="Sports", beIN SPORTS XTRA
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="beINSportsUSA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Sports", beIN Sports USA
+http://23.237.104.106:8080/USA_BEIN/index.m3u8
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Sports",beIN SPORTS XTRA
+https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8
+#EXTINF:-1 tvg-id="beINSportsFrench1.qa" tvg-logo="https://i.ibb.co/PvCTkvW6/bein-sports-1-Logo.png" group-title="Sports", beIN Sports 1
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/4194
+#EXTINF:-1 tvg-id="beINSportsFrench2.qa" tvg-logo="https://i.ibb.co/rGYNTrgY/bein-sports-2-Logo.png" group-title="Sports", beIN Sports 2
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/910
+#EXTINF:-1 tvg-id="beINSportsFrench3.qa" tvg-logo="https://i.ibb.co/yFwbzRxc/bein-sports-3-Logo.png" group-title="Sports", beIN Sports 3
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/1810
+#EXTINF:-1 tvg-id="beINSportsFrench3.qa" tvg-logo="https://i.ibb.co/yFwbzRxc/bein-sports-3-Logo.png" group-title="Sports", beIN Sports 3
+#EXTINF:-1 tvg-id="CBSSportsNetworkCanada.ca" tvg-logo="https://i.imgur.com/LgboQOj.png" group-title="Sports", CBS Sports Network Canada
+http://192.129.159.196:8020/watch/9ab7e7d9-db8b-4427-a4ad-c469d2f13b40/server1.m3u8
+#EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="Sports", CBS Sports Golazo Network
+https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
+#EXTINF:-1 tvg-id="WinSports.co" tvg-logo="https://i.imgur.com/DuSSrHV.png" group-title="Sports",Win Sports
+http://138.121.15.230:9002/WIN-SPORT/index.m3u8
+#EXTINF:-1 tvg-id="WinSports.co" tvg-logo="https://i.imgur.com/DuSSrHV.png" tvg-country="UK" tvg-language="English" group-title="Sports",Win Sports
+http://181.78.15.155:9800/play/a00h
+#EXTINF:-1 tvg-id="TNTSportsPremium.uk" tvg-logo=" https://i.ibb.co/mCrqYG0z/TNT-Sports-Premium.png " group-title="Sports",TNT Sports Premium
+http://138.59.227.20:8000/play/a06z/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Sports",ESPN
+http://84.17.50.102/espn/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://i.imgur.com/00tsvjE.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Sports",ESPN 2
+http://84.17.50.102/espn2/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://i.imgur.com/00tsvjE.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Sports", ESPN ON ABC
+http://stream.cammonitorplus.net/1770/index.m3u8
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Sports",TyC Sports (Country- Argentina)(Language- Spanish)
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 tvg-id="TyCSportsUSA.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Sports",TyC Sports USA (Country- Argentina)(Language- Spanish)
+http://45.170.130.224:8000/play/a020/index.m3u8
+#EXTINF:-1 tvg-id="MaxSport1.bg" tvg-logo="https://i.imgur.com/0ohnpql.png" group-title="Sports",Max Sport 1
+http://91.146.94.234:10001/play/max-sport-1
+#EXTINF:-1 tvg-id="MaxSport2.bg" tvg-logo="https://i.imgur.com/33m1wPN.png" group-title="Sports",Max Sport 2
+http://91.146.94.234:10001/play/max-sport-2
+#EXTINF:-1 tvg-id="MaxSport3.bg" tvg-logo="https://i.imgur.com/eGiGgZ2.png" group-title="Sports",Max Sport 3
+#EXTINF:-1 tvg-id="MaxSport4.bg" tvg-logo="https://i.imgur.com/7IxXX6f.png" group-title="Sports",Max Sport 4
+http://91.146.94.234:10001/play/max-sport-4
