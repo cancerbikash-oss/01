@@ -16,11 +16,16 @@ http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6218/manifest.m3u8
 http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6218/manifest.m3u8
 http://88b9da48.kazmazpaz.ru:80/iptv/5KLVA2TCEWQTMK/12169/manifest.m3u8
 
-
-
-http://ru.iptv.monster/play/1703/manifest.m3u8?token=F6E1DD42544DD10
+#EXTINF:-1,VENUS 
+http://116.121.59.72:9981/stream/channelid/2113774874?profile=pass
+#EXTINF:-1,VENUS
+http://190.61.90.17:40000/play/a02u/index.m3u8
+#EXTINF:-1,VENUS
+http://38.7.223.20:8000/play/a0l2
 #EXTINF:-1,VENUS 
 http://200.229.147.142:8000/play/a01r/index.m3u8
+
+http://ru.iptv.monster/play/1703/manifest.m3u8?token=F6E1DD42544DD10
 #EXTINF:-1,VENUS
 http://88b9da48.kazmazpaz.ru:80/iptv/GKTT8YW6E9SFM2/1064/manifest.m3u8
 #EXTINF:-1, GAY
@@ -29,7 +34,9 @@ http://gohyperspeed.com/live/1012180777/IUI2LzkHvx/500174207.m3u8
 http://88b9da48.kazmazpaz.ru:80/iptv/RL8MVW8UX8NNXK/12169/manifest.m3u8
 #EXTINF:-1,Desire
 http://5.57.74.130:8000/play/a0c4/index.m3u8
-#EXTINF:-1,Desire http://5.57.74.130:8000/play/a0c4/index.m3u8#EXTINF:-1,Blue Hustler
+#EXTINF:-1,Desire
+http://5.57.74.130:8000/play/a0c4/index.m3u8
+#EXTINF:-1,Blue Hustler
 http://5.57.74.130:8000/play/a0c3/index.m3u8
 #EXTINF:-1,Private HD 
 http://169.150.255.53/Private/mpegts
@@ -37,8 +44,6 @@ http://169.150.255.53/Private/mpegts
 http://5.57.74.130:8000/play/a0c9/index.m3u8
 #EXTINF:-1,Hustler TV
 http://169.150.255.53/Hustler/mpegts
-#EXTINF:-1,VENUS
-http://38.7.223.20:8000/play/a0l2
 #EXTINF:-1,Babestv
 http://tv.filmax-tv.ru/p9/120d24a960c3d5abc72f2fe5167fd3b5/manifest.m3u8?token=yr8sidxnsp
 
