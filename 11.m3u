@@ -1,4 +1,9 @@
 
+http://125.227.210.55:3016/VideoInput/play.ts
+http://125.227.210.55:1022/VideoInput/play.ts
+http://125.227.210.55:3031/VideoInput/play.ts
+http://125.227.210.55:3033/VideoInput/play.ts
+
 #EXTINF:-1,PentHouse 
 http://ru.iptv.monster/play/6880/manifest.m3u8?token=75BA4FC1CA5013E
 #EXTINF:-1,Trans Angel 
