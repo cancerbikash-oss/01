@@ -52,14 +52,14 @@ http://202.70.146.135:8000/play/a02j/index.m3u8
 http://202.70.146.135:8000/play/a02k/index.m3u8
 http://202.70.146.135:8000/play/a02l/index.m3u8
 http://202.70.146.135:8000/play/a02m/index.m3u8
-#EXTINF:-1 tvg-id="544" tvg-name="Nick Junior" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Junior.png" tvg-language="English" group-title="Kids", Nick Junior (Tata Play)
+#EXTINF:-1 tvg-id="NickJr.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_JUNIOR/images/LOGO_HD/image.png" group-title="Kids",Nick Jr. (Tata Play)
 http://202.70.146.135:8000/play/a02n/index.m3u8
 http://202.70.146.135:8000/play/a02o/index.m3u8
 http://202.70.146.135:8000/play/a02p/index.m3u8
 http://202.70.146.135:8000/play/a02q/index.m3u8
 http://202.70.146.135:8000/play/a02r/index.m3u8
 http://202.70.146.135:8000/play/a02s/index.m3u8
-#EXTINF:-1 tvg-id="815" tvg-name="Sonic Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/sonic_Hindi.png" tvg-language="Hindi" group-title="Kids", Sonic Hindi (Tata Play)
+#EXTINF:-1 tvg-id="Sonic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png" group-title="Kids",Sonic (Tata Play)
 http://202.70.146.135:8000/play/a02t/index.m3u8
 http://202.70.146.135:8000/play/a02u/index.m3u8
 http://202.70.146.135:8000/play/a02v/index.m3u8
@@ -131,17 +131,25 @@ http://116.90.120.157:8000/play/a0g6
 http://116.90.120.157:8000/play/a0g7
 http://116.90.120.157:8000/play/a0g8
 http://116.90.120.157:8000/play/a0g9
+#EXTINF:-1 tvg-id="StarSports1Hindi.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HINDI/images/LOGO_HD/image.png" group-title="Sports",Star Sports 1 Hindi (Tata Play)
 http://116.90.120.157:8000/play/a0h1
+#EXTINF:-1 tvg-id="StarBharat.in@SD" tvg-logo="https://i.imgur.com/Q8ajPij.png" group-title="News",Star Bharat (Tata Play)
 http://116.90.120.157:8000/play/a0h2
+#EXTINF:-1 tvg-id="StarSports3.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_3/images/LOGO_HD/image.png" group-title="Sports",Star Sports 3  (Tata Play)
 http://116.90.120.157:8000/play/a0h3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title=" ",
 http://116.90.120.157:8000/play/a0h4
+#EXTINF:-1 tvg-id="NickJr.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_JUNIOR/images/LOGO_HD/image.png" group-title="Kids",Nick Jr. (Tata Play)
 http://116.90.120.157:8000/play/a0h5
 http://116.90.120.157:8000/play/a0h6
+#EXTINF:-1 tvg-id="Sonic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png" group-title="Kids",Sonic (Tata Play)
 http://116.90.120.157:8000/play/a0h7
 http://116.90.120.157:8000/play/a0h8
+#EXTINF:-1 tvg-id="StarSportsSelect1.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_1_HD/images/LOGO_HD/image.png" group-title="Sports",Star Sports Select 1 HD (Tata Play)
 http://116.90.120.157:8000/play/a0h9
 http://116.90.120.157:8000/play/a0i1
 http://116.90.120.157:8000/play/a0i2
+#EXTINF:-1 tvg-id="NickHDPlus.in@HD", tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_HDSYMPLUS/images/LOGO_HD/image.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Kids",Nick HD+ (Tata Play)
 http://116.90.120.157:8000/play/a0i3
 #EXTINF:-1 tvg-id="MoviesNowPlus.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNSYMPLUS/images/LOGO_HD/image.png" group-title="Movies",MN+ HD (Tata Play)
 http://116.90.120.157:8000/play/a0i4
@@ -152,25 +160,40 @@ http://116.90.120.157:8000/play/a0i7
 #EXTINF:-1 tvg-id="DiscoveryTurbo.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s159108_ld_h15_aa.png?lock=720x540" group-title="Infotainment",Discovery Turbo (Tata Play)
 http://116.90.120.157:8000/play/a0i8
 http://116.90.120.157:8000/play/a0i9
+#EXTINF:-1 tvg-id="SonyBBCEarth.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540" group-title="Infotainment",Sony BBC Earth HD (Tata Play)
 http://116.90.120.157:8000/play/a0j1
+#EXTINF:-1 tvg-id="StarGoldSelect.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143817_ld_h15_aa.png?lock=720x540" group-title="Movies",Star Gold Select HD (Tata Play)
 http://116.90.120.157:8000/play/a0j2
 http://116.90.120.157:8000/play/a0j3
+#EXTINF:-1 tvg-id="Andpictures.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540" group-title="Movies",&pictures HD (Tata Play)
 http://116.90.120.157:8000/play/a0j4
+#EXTINF:-1 tvg-id="AndTV.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png" group-title="Entertainment",&TV HD (Tata Play)
 http://116.90.120.157:8000/play/a0j5
 http://116.90.120.157:8000/play/a0j6
 http://116.90.120.157:8000/play/a0j7
 http://116.90.120.157:8000/play/a0j8
 http://116.90.120.157:8000/play/a0j9
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title=" ",
 http://116.90.120.157:8000/play/a0k1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title=" ",
 http://116.90.120.157:8000/play/a0k2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title=" ",
 http://116.90.120.157:8000/play/a0k3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title=" ",
 http://116.90.120.157:8000/play/a0k4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title=" ",
 http://116.90.120.157:8000/play/a0k5
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title=" ",
 http://116.90.120.157:8000/play/a0k6
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title=" ",
 http://116.90.120.157:8000/play/a0k7
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title=" ",
 http://116.90.120.157:8000/play/a0k8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title=" ",
 http://116.90.120.157:8000/play/a0k9
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title=" ",History 2
 http://116.90.120.157:8000/play/a0l1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title=" ",
 http://116.90.120.157:8000/play/a0l2
 http://116.90.120.157:8000/play/a0l3
 http://116.90.120.157:8000/play/a0l4
@@ -179,6 +202,146 @@ http://116.90.120.157:8000/play/a0l6
 http://116.90.120.157:8000/play/a0l7
 http://116.90.120.157:8000/play/a0l8
 http://116.90.120.157:8000/play/a0l9
+http://116.90.120.157:8000/play/a0m0
+http://116.90.120.157:8000/play/a0m1
+http://116.90.120.157:8000/play/a0m2
+http://116.90.120.157:8000/play/a0m3
+http://116.90.120.157:8000/play/a0m4
+http://116.90.120.157:8000/play/a0m5
+http://116.90.120.157:8000/play/a0m6
+http://116.90.120.157:8000/play/a0m7
+http://116.90.120.157:8000/play/a0m8
+http://116.90.120.157:8000/play/a0m9
+http://116.90.120.157:8000/play/a0n0
+http://116.90.120.157:8000/play/a0n1
+http://116.90.120.157:8000/play/a0n2
+http://116.90.120.157:8000/play/a0n3
+http://116.90.120.157:8000/play/a0n4
+http://116.90.120.157:8000/play/a0n5
+http://116.90.120.157:8000/play/a0n6
+http://116.90.120.157:8000/play/a0n7
+http://116.90.120.157:8000/play/a0n8
+http://116.90.120.157:8000/play/a0n9
+http://116.90.120.157:8000/play/a0o0
+http://116.90.120.157:8000/play/a0o1
+http://116.90.120.157:8000/play/a0o2
+http://116.90.120.157:8000/play/a0o3
+http://116.90.120.157:8000/play/a0o4
+http://116.90.120.157:8000/play/a0o5
+http://116.90.120.157:8000/play/a0o6
+http://116.90.120.157:8000/play/a0o7
+http://116.90.120.157:8000/play/a0o8
+http://116.90.120.157:8000/play/a0o9
+http://116.90.120.157:8000/play/a0p0
+http://116.90.120.157:8000/play/a0p1
+http://116.90.120.157:8000/play/a0p2
+http://116.90.120.157:8000/play/a0p3
+http://116.90.120.157:8000/play/a0p4
+http://116.90.120.157:8000/play/a0p5
+http://116.90.120.157:8000/play/a0p6
+http://116.90.120.157:8000/play/a0p7
+http://116.90.120.157:8000/play/a0p8
+http://116.90.120.157:8000/play/a0p9
+http://116.90.120.157:8000/play/a0q0
+http://116.90.120.157:8000/play/a0q1
+http://116.90.120.157:8000/play/a0q2
+http://116.90.120.157:8000/play/a0q3
+http://116.90.120.157:8000/play/a0q4
+http://116.90.120.157:8000/play/a0q5
+http://116.90.120.157:8000/play/a0q6
+http://116.90.120.157:8000/play/a0q7
+http://116.90.120.157:8000/play/a0q8
+http://116.90.120.157:8000/play/a0q9
+http://116.90.120.157:8000/play/a0r0
+http://116.90.120.157:8000/play/a0r1
+http://116.90.120.157:8000/play/a0r2
+http://116.90.120.157:8000/play/a0r3
+http://116.90.120.157:8000/play/a0r4
+http://116.90.120.157:8000/play/a0r5
+http://116.90.120.157:8000/play/a0r6
+http://116.90.120.157:8000/play/a0r7
+http://116.90.120.157:8000/play/a0r8
+http://116.90.120.157:8000/play/a0r9
+http://116.90.120.157:8000/play/a0s0
+http://116.90.120.157:8000/play/a0s1
+http://116.90.120.157:8000/play/a0s2
+http://116.90.120.157:8000/play/a0s3
+http://116.90.120.157:8000/play/a0s4
+http://116.90.120.157:8000/play/a0s5
+http://116.90.120.157:8000/play/a0s6
+http://116.90.120.157:8000/play/a0s7
+http://116.90.120.157:8000/play/a0s8
+http://116.90.120.157:8000/play/a0s9
+http://116.90.120.157:8000/play/a0t0
+http://116.90.120.157:8000/play/a0t1
+http://116.90.120.157:8000/play/a0t2
+http://116.90.120.157:8000/play/a0t3
+http://116.90.120.157:8000/play/a0t4
+http://116.90.120.157:8000/play/a0t5
+http://116.90.120.157:8000/play/a0t6
+http://116.90.120.157:8000/play/a0t7
+http://116.90.120.157:8000/play/a0t8
+http://116.90.120.157:8000/play/a0t9
+http://116.90.120.157:8000/play/a0u0
+http://116.90.120.157:8000/play/a0u1
+http://116.90.120.157:8000/play/a0u2
+http://116.90.120.157:8000/play/a0u3
+http://116.90.120.157:8000/play/a0u4
+http://116.90.120.157:8000/play/a0u5
+http://116.90.120.157:8000/play/a0u6
+http://116.90.120.157:8000/play/a0u7
+http://116.90.120.157:8000/play/a0u8
+http://116.90.120.157:8000/play/a0u9
+http://116.90.120.157:8000/play/a0v0
+http://116.90.120.157:8000/play/a0v1
+http://116.90.120.157:8000/play/a0v2
+http://116.90.120.157:8000/play/a0v3
+http://116.90.120.157:8000/play/a0v4
+http://116.90.120.157:8000/play/a0v5
+http://116.90.120.157:8000/play/a0v6
+http://116.90.120.157:8000/play/a0v7
+http://116.90.120.157:8000/play/a0v8
+http://116.90.120.157:8000/play/a0v9
+http://116.90.120.157:8000/play/a0w0
+http://116.90.120.157:8000/play/a0w1
+http://116.90.120.157:8000/play/a0w2
+http://116.90.120.157:8000/play/a0w3
+http://116.90.120.157:8000/play/a0w4
+http://116.90.120.157:8000/play/a0w5
+http://116.90.120.157:8000/play/a0w6
+http://116.90.120.157:8000/play/a0w7
+http://116.90.120.157:8000/play/a0w8
+http://116.90.120.157:8000/play/a0w9
+http://116.90.120.157:8000/play/a0x0
+http://116.90.120.157:8000/play/a0x1
+http://116.90.120.157:8000/play/a0x2
+http://116.90.120.157:8000/play/a0x3
+http://116.90.120.157:8000/play/a0x4
+http://116.90.120.157:8000/play/a0x5
+http://116.90.120.157:8000/play/a0x6
+http://116.90.120.157:8000/play/a0x7
+http://116.90.120.157:8000/play/a0x8
+http://116.90.120.157:8000/play/a0x9
+http://116.90.120.157:8000/play/a0y0
+http://116.90.120.157:8000/play/a0y1
+http://116.90.120.157:8000/play/a0y2
+http://116.90.120.157:8000/play/a0y3
+http://116.90.120.157:8000/play/a0y4
+http://116.90.120.157:8000/play/a0y5
+http://116.90.120.157:8000/play/a0y6
+http://116.90.120.157:8000/play/a0y7
+http://116.90.120.157:8000/play/a0y8
+http://116.90.120.157:8000/play/a0y9
+http://116.90.120.157:8000/play/a0z0
+http://116.90.120.157:8000/play/a0z1
+http://116.90.120.157:8000/play/a0z2
+http://116.90.120.157:8000/play/a0z3
+http://116.90.120.157:8000/play/a0z4
+http://116.90.120.157:8000/play/a0z5
+http://116.90.120.157:8000/play/a0z6
+http://116.90.120.157:8000/play/a0z7
+http://116.90.120.157:8000/play/a0z8
+http://116.90.120.157:8000/play/a0z9
 
 
 
