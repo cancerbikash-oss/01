@@ -33,7 +33,7 @@ http://103.253.18.58:8000/play/a00u
 http://103.253.18.58:8000/play/a00v
 http://103.253.18.58:8000/play/a00w
 http://103.253.18.58:8000/play/a00x
-#EXTINF:-1 tvg-id="544" tvg-name="Nick Junior" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Junior.png" tvg-language="English" group-title="Kids", Nick Junior (Tata Play)
+#EXTINF:-1 tvg-id="NickJr.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_JUNIOR/images/LOGO_HD/image.png" group-title="Kids",Nick Jr. (Tata Play)
 http://103.253.18.58:8000/play/a00y
 http://103.253.18.58:8000/play/a00z
 
@@ -67,4 +67,15 @@ http://202.70.146.135:8000/play/a02w/index.m3u8
 http://202.70.146.135:8000/play/a02x/index.m3u8
 http://202.70.146.135:8000/play/a02y/index.m3u8
 http://202.70.146.135:8000/play/a02z/index.m3u8
+
+http://116.90.120.157:8000/play/a0i1
+http://116.90.120.157:8000/play/a0i2
+http://116.90.120.157:8000/play/a0i3
+http://116.90.120.157:8000/play/a0i4
+http://116.90.120.157:8000/play/a0i5
+http://116.90.120.157:8000/play/a0i6
+http://116.90.120.157:8000/play/a0i7
+http://116.90.120.157:8000/play/a0i8
+http://116.90.120.157:8000/play/a0i9
+
 
