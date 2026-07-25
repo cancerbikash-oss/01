@@ -413,6 +413,7 @@ http://59.103.38.46:8000/play/a005
 http://59.103.38.46:8000/play/a006
 http://59.103.38.46:8000/play/a007
 http://59.103.38.46:8000/play/a008
+#EXTINF:-1 tvg-id="StarPlus.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_PLUS_HD/images/LOGO_HD/image.png" group-title="Entertainment",Star Plus HD (Tata Play)
 http://59.103.38.46:8000/play/a009
 http://59.103.38.46:8000/play/a010
 http://59.103.38.46:8000/play/a011
@@ -428,6 +429,7 @@ http://59.103.38.46:8000/play/a020
 http://59.103.38.46:8000/play/a021
 http://59.103.38.46:8000/play/a022
 http://59.103.38.46:8000/play/a023
+#EXTINF:-1 tvg-id="StarGoldThrills.in@SD" tvg-logo="https://i.imgur.com/azqtpYh.png" group-title="Movies",Star Gold Thrills (Tata Play)
 http://59.103.38.46:8000/play/a024
 http://59.103.38.46:8000/play/a025
 http://59.103.38.46:8000/play/a026
@@ -448,6 +450,7 @@ http://59.103.38.46:8000/play/a040
 http://59.103.38.46:8000/play/a041
 http://59.103.38.46:8000/play/a042
 http://59.103.38.46:8000/play/a043
+#EXTINF:-1 tvg-id="StarGoldRomance.in@SD" tvg-logo="https://i.imgur.com/gSWv9U3.png" group-title="Movies",Star Gold Romance (Tata Play)
 http://59.103.38.46:8000/play/a044
 http://59.103.38.46:8000/play/a045
 http://59.103.38.46:8000/play/a046
