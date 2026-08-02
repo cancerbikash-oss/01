@@ -13,6 +13,7 @@ https://restream-live.realiptv.to/1234567/7654321/544011
 https://restream-live.realiptv.to/1234567/7654321/544012
 https://restream-live.realiptv.to/1234567/7654321/544013
 https://restream-live.realiptv.to/1234567/7654321/544014
+#EXTINF:-1 tvg-id="KairaliNews.in" tvg-logo="https://dtil.tmsimg.com/assets/s143246_ld_h15_aa.png?lock=720x540" tvg-language="Punjabi" group-title="News",Kairali News
 https://restream-live.realiptv.to/1234567/7654321/544015
 #EXTINF:-1 tvg-id="JusPunjabi.us" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/JUSPunjabi.png" tvg-language="Punjabi" group-title="Entertainment", JUS PUNJABI HD
 https://restream-live.realiptv.to/1234567/7654321/544016
@@ -25,13 +26,16 @@ https://restream-live.realiptv.to/1234567/7654321/544022
 https://restream-live.realiptv.to/1234567/7654321/544023
 https://restream-live.realiptv.to/1234567/7654321/544024
 https://restream-live.realiptv.to/1234567/7654321/544025
-#EXTINF:-1 tvg-id="MysteriousWorlds.us" tvg-logo="https://i.ibb.co/XZcfFzQq/mysterious-World.png" tvg-language="Punjabi" group-title="Infotainment",Mysterious Worlds
+#EXTINF:-1 tvg-id="MysteriousWorlds.us" tvg-logo="https://i.ibb.co/XZcfFzQq/mysterious-World.png" group-title="Infotainment",Mysterious Worlds
 https://restream-live.realiptv.to/1234567/7654321/544026
 https://restream-live.realiptv.to/1234567/7654321/544027
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Religious",
 https://restream-live.realiptv.to/1234567/7654321/544028
 https://restream-live.realiptv.to/1234567/7654321/544029
 https://restream-live.realiptv.to/1234567/7654321/544030
+#EXTINF:-1 tvg-id="ColorsMarathi.in" tvg-logo="https://i.imgur.com/q43P31H.png" group-title="Entertainment",Colors Marathi
 https://restream-live.realiptv.to/1234567/7654321/544031
+#EXTINF:-1 tvg-id="ColorsKannada.in" tvg-logo="https://i.imgur.com/CFUn43Z.png" group-title="Movies",Colors Kannada
 https://restream-live.realiptv.to/1234567/7654321/544032
 https://restream-live.realiptv.to/1234567/7654321/544033
 https://restream-live.realiptv.to/1234567/7654321/544034
@@ -47,6 +51,7 @@ https://restream-live.realiptv.to/1234567/7654321/544043
 https://restream-live.realiptv.to/1234567/7654321/544044
 https://restream-live.realiptv.to/1234567/7654321/544045
 https://restream-live.realiptv.to/1234567/7654321/544046
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entertainment",Miracles of Christmas
 https://restream-live.realiptv.to/1234567/7654321/544047
 https://restream-live.realiptv.to/1234567/7654321/544048
 https://restream-live.realiptv.to/1234567/7654321/544049
@@ -58,17 +63,22 @@ https://restream-live.realiptv.to/1234567/7654321/544054
 https://restream-live.realiptv.to/1234567/7654321/544055
 https://restream-live.realiptv.to/1234567/7654321/544056
 https://restream-live.realiptv.to/1234567/7654321/544057
+#EXTINF:-1 tvg-id="SonyMax2.in" tvg-logo="https://i.imgur.com/gqUYk6C.png" group-title="Movies",Sony Max 2
 https://restream-live.realiptv.to/1234567/7654321/544058
 https://restream-live.realiptv.to/1234567/7654321/544059
 https://restream-live.realiptv.to/1234567/7654321/544060
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="News",Sahara Samay
 https://restream-live.realiptv.to/1234567/7654321/544061
+#EXTINF:-1 tvg-id="SaharaOne.in" tvg-logo="https://i.imgur.com/3x5zhRL.png" group-title="Movies",Sahara One
 https://restream-live.realiptv.to/1234567/7654321/544062
 https://restream-live.realiptv.to/1234567/7654321/544063
 https://restream-live.realiptv.to/1234567/7654321/544064
 https://restream-live.realiptv.to/1234567/7654321/544065
+#EXTINF:-1 tvg-id="SonySABUSA.us" tvg-logo="https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540" group-title="Entertainment",Sony SAB USA
 https://restream-live.realiptv.to/1234567/7654321/544066
 https://restream-live.realiptv.to/1234567/7654321/544067
 https://restream-live.realiptv.to/1234567/7654321/544068
+#EXTINF:-1 tvg-id="GeoKahani.pk" tvg-logo="https://i.imgur.com/uKYH0IM.png" group-title="Entertainment",Geo Kahani
 https://restream-live.realiptv.to/1234567/7654321/544069
 https://restream-live.realiptv.to/1234567/7654321/544070
 https://restream-live.realiptv.to/1234567/7654321/544071
