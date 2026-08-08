@@ -102,6 +102,7 @@ https://restream-live.realiptv.to/1234567/7654321/544085
 #EXTINF:-1 tvg-id="ColorsCineplex.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_HD/images/LOGO_HD/image.png" group-title="Movies",Colors Cineplex HD
 https://restream-live.realiptv.to/1234567/7654321/544086
 https://restream-live.realiptv.to/1234567/7654321/544087
+#EXTINF:-1 tvg-id="B4UMusic.in@India" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540" group-title="Music",B4U Music
 https://restream-live.realiptv.to/1234567/7654321/544088
 https://restream-live.realiptv.to/1234567/7654321/544089
 https://restream-live.realiptv.to/1234567/7654321/544090
@@ -109,6 +110,7 @@ https://restream-live.realiptv.to/1234567/7654321/544091
 https://restream-live.realiptv.to/1234567/7654321/544092
 #EXTINF:-1 tvg-id="Colors.us" tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="Entertainment",Aapka Colors
 https://restream-live.realiptv.to/1234567/7654321/544093
+#EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://dtil.tmsimg.com/assets/s142507_ld_h15_aa.png?lock=720x540" group-title="News",Aaj Tak
 https://restream-live.realiptv.to/1234567/7654321/544094
 https://restream-live.realiptv.to/1234567/7654321/544095
 https://restream-live.realiptv.to/1234567/7654321/544096
@@ -116,18 +118,25 @@ https://restream-live.realiptv.to/1234567/7654321/544097
 https://restream-live.realiptv.to/1234567/7654321/544098
 https://restream-live.realiptv.to/1234567/7654321/544099
 https://restream-live.realiptv.to/1234567/7654321/544100
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music",One
 https://restream-live.realiptv.to/1234567/7654321/544101
 https://restream-live.realiptv.to/1234567/7654321/544102
 https://restream-live.realiptv.to/1234567/7654321/544103
+#EXTINF:-1 tvg-id="HumWorld.pk" tvg-logo="https://i.imgur.com/30jSYsM.png" group-title="Entertainment",Hum World HD
 https://restream-live.realiptv.to/1234567/7654321/544104
+#EXTINF:-1 tvg-id="HumSitarayWorld.pk" tvg-logo="https://i.imgur.com/3Gp6G7R.png" group-title="Entertainment",Hum Sitaray World
 https://restream-live.realiptv.to/1234567/7654321/544105
+#EXTINF:-1 tvg-id="MasalaTV.pk" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/06/Logo_Hum_Masala.jpeg" group-title="Cooking",Masala TV
 https://restream-live.realiptv.to/1234567/7654321/544106
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JgNY0ce.png" group-title="Entertainment",Geo
 https://restream-live.realiptv.to/1234567/7654321/544107
 https://restream-live.realiptv.to/1234567/7654321/544108
 https://restream-live.realiptv.to/1234567/7654321/544109
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",DD India
 https://restream-live.realiptv.to/1234567/7654321/544110
 https://restream-live.realiptv.to/1234567/7654321/544111
 https://restream-live.realiptv.to/1234567/7654321/544112
+#EXTINF:-1 tvg-id="ARYQtv.pk" tvg-logo="https://i.imgur.com/eP2OW5S.png" group-title="Religious",ARY Q TV
 https://restream-live.realiptv.to/1234567/7654321/544113
 https://restream-live.realiptv.to/1234567/7654321/544114
 https://restream-live.realiptv.to/1234567/7654321/544115
