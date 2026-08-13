@@ -141,9 +141,11 @@ http://103.159.180.34:5001/live/139.m3u8
 http://103.159.180.34:5001/live/140.m3u8
 http://103.159.180.34:5001/live/141.m3u8
 http://103.159.180.34:5001/live/142.m3u8
+#EXTINF:-1 tvg-id="CNBCTV18Prime.in" tvg-logo="https://www.cnbctv18.com/static/images/cnbc-new-logo/cnbc-prime-livetv.svg" group-title="Business",CNBC TV18 Prime
 http://103.159.180.34:5001/live/143.m3u8
 http://103.159.180.34:5001/live/144.m3u8
 http://103.159.180.34:5001/live/145.m3u8
+#EXTINF:-1 tvg-id="HistoryTV18.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_HD.png" group-title="Documentaryt", History TV18 HD 
 http://103.159.180.34:5001/live/146.m3u8
 http://103.159.180.34:5001/live/147.m3u8
 http://103.159.180.34:5001/live/148.m3u8
@@ -162,6 +164,7 @@ http://103.159.180.34:5001/live/160.m3u8
 http://103.159.180.34:5001/live/161.m3u8
 http://103.159.180.34:5001/live/162.m3u8
 http://103.159.180.34:5001/live/163.m3u8
+#EXTINF:-1 tvg-id=" Travelxp.in " tvg-logo=" https://i.imgur.com/LoIcPuJ.png " group-title="Documentary", Travelxp HD
 http://103.159.180.34:5001/live/164.m3u8
 http://103.159.180.34:5001/live/165.m3u8
 http://103.159.180.34:5001/live/166.m3u8
@@ -171,16 +174,22 @@ http://103.159.180.34:5001/live/169.m3u8
 http://103.159.180.34:5001/live/170.m3u8
 http://103.159.180.34:5001/live/171.m3u8
 http://103.159.180.34:5001/live/172.m3u8
+#EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png" group-title="News",Aaj Tak
 http://103.159.180.34:5001/live/173.m3u8
 http://103.159.180.34:5001/live/174.m3u8
+#EXTINF:-1 tvg-id="Aastha.in" tvg-logo=" https://jiotvimages.cdn.jio.com/dare_images/images/Aastha.png " group-title="Religious",Aastha
 http://103.159.180.34:5001/live/175.m3u8
 http://103.159.180.34:5001/live/176.m3u8
+#EXTINF:-1 tvg-id="ABPNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s158138_ld_h15_aa.png?lock=720x540" group-title="News",ABP News 
 http://103.159.180.34:5001/live/177.m3u8
 http://103.159.180.34:5001/live/178.m3u8
 http://103.159.180.34:5001/live/179.m3u8
+#EXTINF:-1 tvg-id="AsianetNews.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asianet_News.png" group-title="News",Asianet News
 http://103.159.180.34:5001/live/180.m3u8
 http://103.159.180.34:5001/live/181.m3u8
+#EXTINF:-1 tvg-id="B4UMovies.in" tvg-logo="https://i.imgur.com/M9kMFJl.png" group-title="Movies",B4U Movies
 http://103.159.180.34:5001/live/182.m3u8
+#EXTINF:-1 tvg-id="B4UMusic.in@India" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540" group-title="Music",B4U Music 
 http://103.159.180.34:5001/live/183.m3u8
 http://103.159.180.34:5001/live/184.m3u8
 http://103.159.180.34:5001/live/185.m3u8
@@ -188,6 +197,7 @@ http://103.159.180.34:5001/live/186.m3u8
 http://103.159.180.34:5001/live/187.m3u8
 http://103.159.180.34:5001/live/188.m3u8
 http://103.159.180.34:5001/live/189.m3u8
+#EXTINF:-1 tvg-id="CNBCAwaaz.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNBCAwaaz.png" group-title="Business",CNBC Awaaz
 http://103.159.180.34:5001/live/190.m3u8
 http://103.159.180.34:5001/live/191.m3u8
 http://103.159.180.34:5001/live/192.m3u8
@@ -200,8 +210,11 @@ http://103.159.180.34:5001/live/198.m3u8
 http://103.159.180.34:5001/live/199.m3u8
 http://103.159.180.34:5001/live/200.m3u8
 http://103.159.180.34:5001/live/201.m3u8
+#EXTINF:-1 tvg-id="DDNational.in" tvg-logo="https://dtil.tmsimg.com/assets/s158252_ld_h9_aa.png?lock=720x540" group-title="Entertainment",DD National
 http://103.159.180.34:5001/live/202.m3u8
+#EXTINF:-1 tvg-id="DDNews.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_News.png" group-title="News",DD News HD
 http://103.159.180.34:5001/live/203.m3u8
+#EXTINF:-1 tvg-id="DDSports.in" tvg-logo="://jiotvimages.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="Sports",DD Sports
 http://103.159.180.34:5001/live/204.m3u8
 http://103.159.180.34:5001/live/205.m3u8
 http://103.159.180.34:5001/live/206.m3u8
@@ -210,6 +223,7 @@ http://103.159.180.34:5001/live/208.m3u8
 http://103.159.180.34:5001/live/209.m3u8
 http://103.159.180.34:5001/live/210.m3u8
 http://103.159.180.34:5001/live/211.m3u8
+#EXTINF:-1 tvg-id="ETNow.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ET_NOW/images/LOGO_HD/image.png" group-title="News",ET Now
 http://103.159.180.34:5001/live/212.m3u8
 http://103.159.180.34:5001/live/213.m3u8
 http://103.159.180.34:5001/live/214.m3u8
@@ -229,6 +243,7 @@ http://103.159.180.34:5001/live/227.m3u8
 http://103.159.180.34:5001/live/228.m3u8
 http://103.159.180.34:5001/live/229.m3u8
 http://103.159.180.34:5001/live/230.m3u8
+#EXTINF:-1 tvg-id="News18India.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/IBN_7.png" group-title="News", News 18 India
 http://103.159.180.34:5001/live/231.m3u8
 http://103.159.180.34:5001/live/232.m3u8
 http://103.159.180.34:5001/live/233.m3u8
