@@ -243,11 +243,13 @@ http://103.159.180.34:5001/live/227.m3u8
 http://103.159.180.34:5001/live/228.m3u8
 http://103.159.180.34:5001/live/229.m3u8
 http://103.159.180.34:5001/live/230.m3u8
-#EXTINF:-1 tvg-id="News18India.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/IBN_7.png" group-title="News", News 18 India
+#EXTINF:-1 tvg-id="News18India.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/IBN_7.png" group-title="News",News 18 India
 http://103.159.180.34:5001/live/231.m3u8
+#EXTINF:-1 tvg-id="News18Marathi.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News18Lokmat.png" group-title="News",News18 Marathi
 http://103.159.180.34:5001/live/232.m3u8
 http://103.159.180.34:5001/live/233.m3u8
 http://103.159.180.34:5001/live/234.m3u8
+#EXTINF:-1 tvg-id="IndiaTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INDIA_TV/images/LOGO_HD/image.png" group-title="News",India TV
 http://103.159.180.34:5001/live/235.m3u8
 http://103.159.180.34:5001/live/236.m3u8
 http://103.159.180.34:5001/live/237.m3u8
@@ -263,15 +265,19 @@ http://103.159.180.34:5001/live/246.m3u8
 http://103.159.180.34:5001/live/247.m3u8
 http://103.159.180.34:5001/live/248.m3u8
 http://103.159.180.34:5001/live/249.m3u8
+#EXTINF:-1 tvg-id="MusicIndia.in" tvg-logo="https://dtil.tmsimg.com/assets/s143563_ld_h15_aa.png?lock=720x540" group-title="Music",Music India
 http://103.159.180.34:5001/live/250.m3u8
 http://103.159.180.34:5001/live/251.m3u8
 http://103.159.180.34:5001/live/252.m3u8
 http://103.159.180.34:5001/live/253.m3u8
 http://103.159.180.34:5001/live/254.m3u8
+#EXTINF:-1 tvg-id="NDTV24x7.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_24x7.png" group-title="News", NDTV 24x7
 http://103.159.180.34:5001/live/255.m3u8
 http://103.159.180.34:5001/live/256.m3u8
 http://103.159.180.34:5001/live/257.m3u8
+#EXTINF:-1 tvg-id="NDTVIndia.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_India.png" group-title="News", NDTV India
 http://103.159.180.34:5001/live/258.m3u8
+#EXTINF:-1 tvg-id="NDTVProfit.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_Profit.png" group-title="Business", NDTV Profit
 http://103.159.180.34:5001/live/259.m3u8
 http://103.159.180.34:5001/live/260.m3u8
 http://103.159.180.34:5001/live/261.m3u8
@@ -292,6 +298,7 @@ http://103.159.180.34:5001/live/275.m3u8
 http://103.159.180.34:5001/live/276.m3u8
 http://103.159.180.34:5001/live/277.m3u8
 http://103.159.180.34:5001/live/278.m3u8
+#EXTINF:-1 tvg-id="ColorsRishtey.in" tvg-logo="https://i.imgur.com/YKWfMZo.png" group-title="Entertainment",Colors Rishtey
 http://103.159.180.34:5001/live/279.m3u8
 http://103.159.180.34:5001/live/280.m3u8
 http://103.159.180.34:5001/live/281.m3u8
@@ -301,6 +308,7 @@ http://103.159.180.34:5001/live/284.m3u8
 http://103.159.180.34:5001/live/285.m3u8
 http://103.159.180.34:5001/live/286.m3u8
 http://103.159.180.34:5001/live/287.m3u8
+#EXTINF:-1 tvg-id="SanskarTV.in" tvg-logo="https://i.imgur.com/SDkiMvR.png" group-title="Religious",Sanskar TV
 http://103.159.180.34:5001/live/288.m3u8
 http://103.159.180.34:5001/live/289.m3u8
 http://103.159.180.34:5001/live/290.m3u8
@@ -396,6 +404,7 @@ http://103.159.180.34:5001/live/379.m3u8
 http://103.159.180.34:5001/live/380.m3u8
 http://103.159.180.34:5001/live/381.m3u8
 http://103.159.180.34:5001/live/382.m3u8
+#EXTINF:-1 tvg-id="TimesNow.in" tvg-logo="https://i.imgur.com/C6QK1LB.png" group-title="News",Times Now
 http://103.159.180.34:5001/live/383.m3u8
 http://103.159.180.34:5001/live/384.m3u8
 http://103.159.180.34:5001/live/385.m3u8
